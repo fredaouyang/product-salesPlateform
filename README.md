@@ -1,21 +1,3 @@
-# vue-demo4
-
-> A Vue.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ![mahua](mahua-logo.jpg)
 ##MaHua是什么?
 一个在线编辑markdown文档的编辑器
@@ -62,13 +44,3 @@ npm run build --report
     site : "http://jser.me"
   }
 ```
-```
-```javascript
-  var ihubo = {
-    nickName  : "草依山",
-    site : "http://jser.me"
-
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-  
